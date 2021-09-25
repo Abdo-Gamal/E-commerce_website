@@ -1,0 +1,45 @@
+﻿@model IEnumerable<E_ComerceSystem.ModelView.FeedbackModelView>
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_OurLayOut.cshtml";
+}
+
+<h2 class="text-center text-capitalize my-3"> Details OF @ViewBag.Name  </h2>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <div class="card">
+                <img src="~/Content/Images/@ViewBag.Image" class="card-img-top" width="100px" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title"> @ViewBag.Name </h5>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item text-center">@ViewBag.price $ </li>
+                    <li class="list-group-item text-center">  @ViewBag.ProviderName </li>
+                    <li class="list-group-item text-center">  @ViewBag.Discraption </li>
+                </ul>
+                <div class="card-body">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a class="btn btn-success text-capitalize  mb-3" href="@Url.Action("AddComment", "Home", new { id = ViewBag.ProductId })"> Add Comment  </a>
+                        <a class="btn btn-primary text-capitalize  mb-3" href="@Url.Action("Bay", "Home", new { id = ViewBag.ProductId }) "> Add To Card   </a>
+                    }
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            @foreach (var item in Model)
+            {
+
+                <p class="text-primary bg-light">  @item.CustomerName</p>
+
+                <p class="text-center"> @item.Comment</p>
+                <p class=""> @item.Rate / 10</p>
+                <hr />
+            }
+        </div>
+    </div>
+</div>
+
+
+

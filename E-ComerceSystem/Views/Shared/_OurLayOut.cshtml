@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_OurLayOut</title>
+    @*<link href="~/Content/bootstrap.min.css" rel="stylesheet" />*@
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body style="margin:0px;padding:0px;">
+   @Html.Partial("_NavBar")
+
+    @if (!User.Identity.IsAuthenticated)//&& !User.IsInRole("Admin")
+    {
+        @Html.Partial("_NavBarLoginAndRegister");
+    }
+    else
+
+    {
+        @Html.Partial("_NavBarNameAndLogOut");
+
+    }
+
+    <div>
+        @RenderBody()
+        <hr />
+        <footer class="py-5 bg-dark">
+            <div class="container">
+                <p class="m-0 text-center text-white">&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </div>
+        </footer>
+    </div>
+    @*<script src="~/Scripts/bootstrap.bundle.min.js"></script>*@
+    @Scripts.Render("~/bundles/jquery")
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

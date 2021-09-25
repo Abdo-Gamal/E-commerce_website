@@ -1,0 +1,58 @@
+﻿@using E_ComerceSystem.ModelView;
+
+@model  List<ProductModelView>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminNavBar.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Add")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+
+        <th>
+            Prodect price
+        </th>
+        <th>
+            Prodect type
+        </th>
+
+        <th>
+            Prodect Image
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.price)
+    </td>
+    <td>
+        <label>@ViewData[$"{item.ID}Type"].ToString()</label>
+    </td>
+    <td>
+        <img src="~/Content/Images/@item.Image " width="100px" />
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+        @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+    </td>
+</tr>
+    }
+
+</table>

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<E_ComerceSystem.ModelView.AdminOrderDetailsModelView>
+@{
+    ViewBag.Title = "OrderDetails";
+    Layout = "~/Views/Shared/_AdminNavBar.cshtml";
+}
+
+<h2 class="text-capitalize text-center my-3">Order Details</h2>
+
+<h3 class="text-capitalize text-center my-3"> customer name @ViewBag.CustomerName  </h3>
+
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            product name
+        </th>
+        <th>
+            amount
+        </th>
+        <th>
+             salary
+        </th>
+        <th>
+            provider name
+        </th>
+
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Amount
+            </td>
+            <td>
+                @item.price
+            </td>
+            <td>
+                @item.ProviderName
+            </td>
+
+           
+
+        </tr>
+    }
+
+</table>

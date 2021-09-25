@@ -1,0 +1,71 @@
+﻿@using E_ComerceSystem.ModelView
+@model  ContactModelView
+@{
+    ViewData["Title"] = "ContactUs";
+    Layout = "~/Views/Shared/_OurLayOut.cshtml";
+
+}
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<div class="container">
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div>
+                @if (ViewBag.Message == null)
+                {
+                    <div>
+                        <form method="post" action="~/Home/ContactUs">
+                            <div class="form-group">
+                                <label asp-for="Name">Name</label>
+                                <input name="Name" class="form-control" />
+                                <span asp-validation-for="Name"
+                                      class="text-muted"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Email">Email</label>
+                                <input name="Email" class="form-control" />
+                                <span asp-validation-for="Email"
+                                      class="text-muted"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Subject">Subject</label>
+                                <input name="Subject" class="form-control" />
+                                <span asp-validation-for="Subject"
+                                      class="text-muted"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Message">Message</label>
+                                <textarea rows="5" cols="15"
+                                          name="Message" class="form-control"></textarea>
+                                <span asp-validation-for="Message"
+                                      class="text-muted"></span>
+                            </div>
+                            <div>
+                                <button type="submit"
+                                        class="btn btn-success">
+                                    Send
+                                </button>
+                            </div>
+
+                        </form>
+                    </div>
+                }
+            </div>
+
+            <div>
+                <div>
+                    @if (ViewBag.Message != null)
+                    {
+                        <div>@ViewBag.Message</div>
+
+
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+

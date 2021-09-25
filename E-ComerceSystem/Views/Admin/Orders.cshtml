@@ -1,0 +1,56 @@
+﻿
+
+@model IEnumerable<ITIMVCProjectV1.Models.Order>
+@{
+    ViewBag.Title = "Orders";
+    Layout = "~/Views/Shared/_AdminNavBar.cshtml";
+}
+
+<h2 class="text-capitalize text-center my-3" >Orders</h2>
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            Destination
+        </th>
+        <th>
+            cost
+        </th>
+        <th>
+            Reservation Date
+        </th>
+        <th>
+            Delevery Date
+        </th>
+        <th>
+            details
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @item.destination
+    </td>
+    <td>
+        @item.Cost
+    </td>
+    <td>
+        @item.ResevationDate.ToString("MM/dd/yyyy")
+    </td>
+    <td>
+        @item.DeliveryDate.ToString("MM/dd/yyyy")
+    </td>
+
+    <td>
+        <a href="@Url.Action("OrderDetails","Admin",new { id = item.ID })"> Show Ordders </a>
+    </td>
+
+</tr>
+    }
+
+</table>
+
+

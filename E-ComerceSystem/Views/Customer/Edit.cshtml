@@ -1,0 +1,35 @@
+﻿
+@using E_ComerceSystem.ModelView;
+@model ApplicationUserModelView
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_OurLayOut.cshtml";
+
+}
+
+<h2 class="text-center text-capitalize my-3"> Edit Your Profile  </h2>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <form action="@Url.Action("Edit","Customer")" method="post">
+                @Html.ValidationSummary(false)
+
+                <input type="number" value="@Model.Id" name="ID" hidden />
+                <label>Email</label>
+                <input type="text" class="form-control mb-3" name="Email" value="@Model.Email">
+                <label>name</label>
+                <input type="text" class="form-control mb-3" id="lname" name="UserName" value="@Model.UserName">
+                <label>password</label>
+                <input type="password" class="form-control mb-3" name="Password" value="@Model.Password">
+                <label>Password Confirmed</label>
+                <input type="password" class="form-control mb-3" name="PasswordConfirmed" value="@Model.PasswordConfirmed">
+                <label>Phone Number</label>
+                <input type="text" class="form-control mb-3" id="lname" name="PhoneNumber" value="@Model.PhoneNumber">
+                
+                <input type="submit" class="btn btn-primary mb-3" value="Submit">
+                <a href="@Url.Action("Profile","customer")" class="btn btn-secondary mb-3"> Cancel </a>
+            </form>
+        </div>
+    </div>
+</div>
+

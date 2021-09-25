@@ -1,0 +1,284 @@
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\E-ComerceSystem.dll.config
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\E-ComerceSystem.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\E-ComerceSystem.pdb
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\csc.exe
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\csc.exe.config
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\csc.rsp
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\csi.exe
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\csi.exe.config
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\csi.rsp
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.AppContext.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Console.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.IO.Compression.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Net.Http.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Net.Sockets.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.ValueTuple.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Xml.XPath.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\vbc.exe
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\vbc.exe.config
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\vbc.rsp
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\VBCSCompiler.exe
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\Antlr3.Runtime.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\Newtonsoft.Json.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.Helpers.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.Mvc.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.Optimization.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.Razor.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.WebPages.Deployment.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.WebPages.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.WebPages.Razor.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\WebGrease.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.Helpers.xml
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.Mvc.xml
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.Optimization.xml
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.Razor.xml
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.WebPages.xml
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.WebPages.Deployment.xml
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\System.Web.WebPages.Razor.xml
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\Newtonsoft.Json.xml
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\Antlr3.Runtime.pdb
+D:\شغل الiti  .net\MVS\E-ComerceSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\شغل الiti  .net\MVS\E-ComerceSystem\obj\Debug\E-ComerceSystem.csprojAssemblyReference.cache
+D:\شغل الiti  .net\MVS\E-ComerceSystem\obj\Debug\E-ComerceSystem.csproj.CoreCompileInputs.cache
+D:\شغل الiti  .net\MVS\E-ComerceSystem\obj\Debug\E-ComerceSystem.csproj.CopyComplete
+D:\شغل الiti  .net\MVS\E-ComerceSystem\obj\Debug\E-ComerceSystem.dll
+D:\شغل الiti  .net\MVS\E-ComerceSystem\obj\Debug\E-ComerceSystem.pdb
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\E-ComerceSystem.dll.config
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\E-ComerceSystem.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\E-ComerceSystem.pdb
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\csc.exe
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\csc.exe.config
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\csc.rsp
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\csi.exe
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\csi.exe.config
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\csi.rsp
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.AppContext.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Console.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.IO.Compression.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Net.Http.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Net.Sockets.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.ValueTuple.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Xml.XPath.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\vbc.exe
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\vbc.exe.config
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\vbc.rsp
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\VBCSCompiler.exe
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Antlr3.Runtime.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Newtonsoft.Json.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.Helpers.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.Mvc.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.Optimization.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.Razor.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.WebPages.Deployment.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.WebPages.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.WebPages.Razor.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\WebGrease.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.Helpers.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.Mvc.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.Optimization.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.Razor.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.WebPages.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.WebPages.Deployment.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\System.Web.WebPages.Razor.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Newtonsoft.Json.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Antlr3.Runtime.pdb
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\obj\Debug\E-ComerceSystem.csproj.AssemblyReference.cache
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\obj\Debug\E-ComerceSystem.csproj.CoreCompileInputs.cache
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\obj\Debug\E-ComerceSystem.csproj.CopyComplete
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\obj\Debug\E-ComerceSystem.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\obj\Debug\E-ComerceSystem.pdb
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\EntityFramework.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\EntityFramework.SqlServer.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\EntityFramework.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\EntityFramework.SqlServer.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\obj\Debug\E_ComerceSystem.Migrations.asd.resources
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\obj\Debug\E-ComerceSystem.csproj.GenerateResource.cache
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\obj\Debug\E_ComerceSystem.Migrations.asd1.resources
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.Security.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Owin.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.Security.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ITISmart\MyPorjects\MVC\HeshamAndAbdoECommerce\SetUp\E-ComerceSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\E-ComerceSystem.dll.config
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\E-ComerceSystem.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\E-ComerceSystem.pdb
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\csc.exe
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\csc.exe.config
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\csc.rsp
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\csi.exe
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\csi.exe.config
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\csi.rsp
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.AppContext.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Console.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.IO.Compression.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Net.Http.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Net.Sockets.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.ValueTuple.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Xml.XPath.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\vbc.exe
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\vbc.exe.config
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\vbc.rsp
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\VBCSCompiler.exe
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Antlr3.Runtime.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\EntityFramework.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\EntityFramework.SqlServer.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.Security.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Newtonsoft.Json.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Owin.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.Helpers.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.Mvc.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.Optimization.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.Razor.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.WebPages.Deployment.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.WebPages.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.WebPages.Razor.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\WebGrease.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\EntityFramework.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\EntityFramework.SqlServer.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.Security.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.Helpers.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.Mvc.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.Optimization.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.Razor.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.WebPages.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.WebPages.Deployment.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\System.Web.WebPages.Razor.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Newtonsoft.Json.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Antlr3.Runtime.pdb
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\obj\Debug\E-ComerceSystem.csproj.CoreCompileInputs.cache
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\obj\Debug\E-ComerceSystem.csproj.CopyComplete
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\obj\Debug\E-ComerceSystem.dll
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\obj\Debug\E-ComerceSystem.pdb
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\obj\Debug\E_ComerceSystem.Migrations.jj.resources
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\obj\Debug\E-ComerceSystem.csproj.GenerateResource.cache
+D:\شغل الiti  .net\E-Commerce\E-ComerceSystem\obj\Debug\E-ComerceSystem.csprojAssemblyReference.cache
